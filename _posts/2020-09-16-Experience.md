@@ -14,7 +14,7 @@ Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 
 <h2>Research Projects</h2>
-<b>Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
+<b>\diamondsuit Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
 <b>2020.06-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Main Participant; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
 ---Predicted future occurrence of heart disease using machine learning techniques<br> 
 ---Collected Big data related to population characteristics (such as region, height, weight, basic diseases, etc.)<br>
