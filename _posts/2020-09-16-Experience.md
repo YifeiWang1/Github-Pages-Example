@@ -14,15 +14,15 @@ Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 
 <h2>Research Projects</h2>
-<b>Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.06-Present<rb>
-Main Participant					        Advisor: Prof. Shiyong Liu<br>
+<b>Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2020.06-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Main Participant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu<br>
 Predicted future occurrence of heart disease using machine learning techniques<br> 
 Collected Big data related to population characteristics (such as region, height, weight, basic diseases, etc.)<br>
 Responsible for machine learning model constructing and coding<br>
 
 
-<b>An Integrated Analysis Over Environmental Impact and Economic Opportunities of Express Delivery Waste from Online Shopping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.06-Present</b><br> 
-First Author					       Advisor: Prof. Shiyong Liu<br>
+<b>An Integrated Analysis Over Environmental Impact and Economic Opportunities of Express Delivery Waste from Online Shopping </b><br> 
+2020.06-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Author &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
 Comprehensively considered the overall cost (including environmental cost, clearance cost, land occupation cost, etc.) and related economic benefits (such as jobs created, GDP contribution, etc.) of online shopping express waste<br> 
 Applied system dynamics technique to figure out the equilibrium of future development direction in order to balance the environmental losses and economic benefits<br> 
 
