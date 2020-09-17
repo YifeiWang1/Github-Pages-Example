@@ -5,4 +5,4 @@ category: blog
 description: 
 ---
 <br>
-I was born in Hefei, Anhui, China, August 27, 1996. I am currently a junior undergraduate student majoring in Electronics and Electrical Engineering at the University of Electronic Science and Technology of China. As an undergraduate student, I have done research in several fields including high-efficiency RF power amplifiers, microwave filters, theory of graphene and its applications in electronic devices in order to find where my interest locates. My research goal in future is to resolve more challenging problems both in THz, RF, and power electronics circuits and systems from interdisciplinary perspective.
+I was born in Changchun, Jilin, China, June 12, 1998. Majoring in finance and minoring in management, I got my bachelor's degree in economics(Finance) in 2020.07 from Southwestern University of Finance and Economics. During my undergraduate period, I have done research in several fields including system dynamics, asset pricing, machine leaning, algorithm, and econometrics to find out where my interest locates. My research goal in the future is to resolve more challenging problems from an interdisciplinary perspective.
