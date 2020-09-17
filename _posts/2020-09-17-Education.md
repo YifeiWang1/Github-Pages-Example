@@ -12,6 +12,8 @@ description:
 <b>CGPA:</b> 84/100<br>
 <b>GPA(last year):</b> 88.9/100<br>
 <b>Honors and Awards:</b> Outstanding Academic Scholarship (2020)<br>
-The programs are taught entirely in English.<br>
+<br>
+<br>
+<b>The programs are taught entirely in English.</b><br>
 
 
