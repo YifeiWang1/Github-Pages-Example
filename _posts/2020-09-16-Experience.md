@@ -27,28 +27,28 @@ Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 <b>2020.06-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Author; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
 ---Comprehensively considered the overall cost (including environmental cost, clearance cost, land occupation cost, etc.) and related economic benefits (such as jobs created, GDP contribution, etc.) of online shopping express waste<br> 
 ----Applied system dynamics technique to figure out the equilibrium of future development direction in order to balance the environmental losses and economic benefits<br> 
-
+<br>
 
 
 <b>● Evaluating the Impact of President’s Election on Exchange Rate’s Fluctuation</b><br>
 <b>2018.09-2018.12; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Person-in-charge; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Ji Wu</b><br> 
 ---Applied event Study method to study the impact of president election on exchange rate<br> 
 ---Conducted emotional analysis based on data obtained from relevant forums.<br> 
-
+<br>
 
 
 <b>● Will the China-US Trade War Benefits US?</b><br>
 <b>2018.07-2018.09; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Person-in-charge; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Weizhong Hou</b><br>
 ---Applied the Armington model in the paper<br>
 ---Concluded that the trade war was not beneficial to either country's economy, and it means more from a political aspect<br>
-
+<br>
 
 
 <b>● Research on Accurate Intervention in the Development of Diabetes by Targeting Heterogeneous Agents</b><br>
 <b>2018.01-2018.06; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Main Participant; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu & Cheng Xu</b><br>
 ---Applied the agent-based technique to deal with the heterogeneity in our target patient groups in order to achieve accurate intervention.<br>
 ---Adopted different kinds of disease intervention policies to make precise intervention according to different agent groups<br>
-
+<br>
 
 
 
