@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
+        <h1>Yifei Wang</h1>
         <img src="/Pic.PNG"" width="66"/></a>
       </div>
       <div id="particles-js"></div>
