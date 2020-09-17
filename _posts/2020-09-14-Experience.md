@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Social Experiences and Research Projects
+title:      Social and Research Experiences
 category: blog
 description: 
 ---
