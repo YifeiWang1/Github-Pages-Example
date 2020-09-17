@@ -6,7 +6,6 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        ![Image](/pic.png)<br>
         <h1>BeiYuu</h1>
         <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
