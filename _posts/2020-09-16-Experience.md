@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Research and Teaching Experience
+title:      Experiences
 category: blog
 description: 
 ---
