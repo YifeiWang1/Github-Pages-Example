@@ -7,7 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>BeiYuu</h1>
-        <img src="/Pic.PNG"/></a>
+        <img src="/Pic.PNG" width="25"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
