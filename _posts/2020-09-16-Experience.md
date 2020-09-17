@@ -13,7 +13,7 @@ Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <b>China Household Finance Survey, Sichuan, China.</b><br>
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 
-<h2>Research Projects</h2>
+<h2>Research Experiences</h2>
 
 <b>● Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
 <b>2020.06-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Main Participant; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
