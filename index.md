@@ -7,7 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>Yifei Wang</h1>
-        <img src="/Pic.PNG"" width="66"/></a>
+        <img src="/Pic.PNG"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
