@@ -5,4 +5,4 @@ category: blog
 description: 
 ---
 <br>
-My current research interests include power electronics, control theory, RF active and passive components, and THz integrated circuits.
+My current research interests include financial markets, spacial econometrics, future prediction, machine learning, system dynamics, and nonlinear systems.
