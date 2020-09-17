@@ -6,10 +6,19 @@ description:
 ---
 <br>
 <h2>Publications</h2>
-<h3>Journal Article</h3>
-1. <b>J. Wang</b>, S. He, F. You, W. Shi, J. Peng, and C. Li, ‘‘Codesign of High-Efficiency Power Amplifier and Ring-Resonator Filter Based on a Series of Continuous Modes and Even-Odd-Mode Analysis,’’ <i>IEEE Trans. Microw. Theory Tech.</i>, in press. (Available: <a href="https://ieeexplore.ieee.org/document/8333728/" title="Early access">https://ieeexplore.ieee.org/document/8333728/</a>)
-2. <b>J. Wang</b>, S. He, and D. Gan, ‘‘A 2.4/3.5/5.2/5.8-GHz Quad-Band BPF Using SLRs and Triangular Loop Resonators,’’ <i>Electron. Lett.</i>, vol. 54, no. 5, pp. 299-301, Mar. 2018.
-3. <b>J. Wang</b>, Y. Guan, H. Yu, N. Li, S. Wang, C. Shen, Z. Dai, D. Gan, R. Yang, S. He, and G. Zhang, ‘‘Transparent Graphene Microstrip Filters for Wireless Communications,’’ <i>J. Phys. D: Appl. Phys.</i>, vol. 50, no. 34, 34LT01, Aug. 2017.
-4. D. Gan, S. He, Z. Dai, and <b>J. Wang</b>, ‘‘A Quad-Band Bandpass Filter Using Split-Ring Based on T-Shaped Stub-Loaded Step-Impedance Resonators,’’ <i>Microw Opt Technol Lett.</i>, vol. 59, no. 8, pp. 2098-2104, Aug. 2017.
-<h3>Conference Paper</h3>
-1. <b>J. Wang</b>, Y. Guan, and S. He, ‘‘Transparent 5.8 GHz Filter Based on Graphene,’’ <i>2017 IEEE International Microwave Symposium (IMS)</i>, Jun. 2017. 
+<b>● Yifei Wang</b>, Application of Dynamic Programming on Intellectual Test Paper Design, 2020 International Conference on Machine Learning and Computer Application (Accepted)</b><br>
+---Applied dynamic programming algorithm to realize an intellectual paper construction system<br>
+---Optimized the space complexity and the compared time and space complexity with greedy and brute force algorithm<br>
+
+<h2>Working Papers</h2>
+<b>● Yifei Wang</b>, Jun Wang. Maverick Stock Capturing Strategy Ensembled with Hybrid Machine Learning Techniques. The Pacific Asia Conference on Information Systems (Expected to contribute in June 2021)<br>
+---Applied machine learning techniques to improve a maverick stock capturing strategy<br>
+---Applied Attention-based BERT to extract data features, as well as Naïve Bayesian, Support Vector Machine, Decision Tree, Random Forest and their ensembled model based on voting to train and fit the model<br>
+---Tensor fusion are applied to merge data<br>
+---Concluded that the improved strategy is much more effective than the original trading strategy, and is likely to behave even better during market downturn<br>
+<br>
+
+<b>● Yifei Wang</b>, Shiyong Liu. An Application of System Dynamics to Study the Impact of Fossil Fuel Transportation Emissions on Local Air Quality in Beijing. Transportation Research Part A, SCI (Expected to contribute in October 2020)<br>
+---Applied system dynamics techniques to evaluate the influence of fossil fuel transportation on air pollution level<br>
+---Constructed different policy combinations and done simulations to figure out the most effective way on reducing air pollution<br>
+
