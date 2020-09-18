@@ -1,18 +1,10 @@
 ---
 layout:     post
-title:      Social and Research Experiences
+title:      Research and Social Experiences
 category: blog
 description: 
 ---
 <br>
-<h2>Social Experiences</h2>
-<b>China CITIC Bank</b><br>
-Jul. 2020 - Sep. 2020	&nbsp;&nbsp;&nbsp; Talent Intern Program<br>
-<b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
-Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited student (did NOT go since visa was rejected)<br>
-<b>China Household Finance Survey, Sichuan, China.</b><br>
-Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
-
 <h2>Research Experiences</h2>
 
 <b>● Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
@@ -57,3 +49,14 @@ Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 ---Studied the impact of transportation facilities on agricultural economy<br>
 ---Used Brick Agriculture Database to collect data of each province<br>
 ---Concluded that convenient and efficient agricultural transportation and transactions brought by transportation facilities would reduce the total cost in the agricultural economic chain and increase disposable income, which would increase agricultural investment and the utilization rate of land per unit, making up for the negative impact on the occupation of arable land<br>
+
+<h2>Social Experiences</h2>
+<b>China CITIC Bank</b><br>
+Jul. 2020 - Sep. 2020	&nbsp;&nbsp;&nbsp; Talent Intern Program<br>
+<br>
+<b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
+Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited student (did NOT go since visa was rejected)<br>
+<br>
+<b>China Household Finance Survey, Sichuan, China.</b><br>
+Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
+
