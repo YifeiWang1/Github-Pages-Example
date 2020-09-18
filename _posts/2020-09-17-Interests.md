@@ -24,7 +24,7 @@ My current research interests include financial markets, spacial econometrics, f
 <br>
 <b>4，Machine learning</b><br>
 ---Predict future<br>
----Combined with system dynamics(serve as each other’s imput) to solve more problems<br>
+---<b>Combined</b> with system dynamics(serve as each other’s imput) to solve more problems<br>
 <br>
 <b>5，Spacial econometrics</b><br>
 ---Cross-regional, dynamic, systematic research<br>
