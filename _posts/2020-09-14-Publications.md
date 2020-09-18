@@ -6,7 +6,7 @@ description:
 ---
 <br>
 <h2>Publications</h2>
-<b>● Yifei Wang</b> and SuRong Wang, "Application of Dynamic Programming on Intellectual Test Paper Design," 2020 International Conference on Machine Learning and Computer Application (Accepted)<br>
+<b>● Yifei Wang</b> and Surong Wang, "Application of Dynamic Programming on Intellectual Test Paper Design," 2020 International Conference on Machine Learning and Computer Application (Accepted)<br>
 ---Applied dynamic programming algorithm to realize an intellectual paper construction system<br>
 ---Optimized the space complexity and the compared time and space complexity with greedy and brute force algorithm<br>
 
