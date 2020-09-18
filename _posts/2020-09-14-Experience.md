@@ -12,7 +12,7 @@ description:
 
 
 
-<b>● Maverick Stock Capturing Strategy Ensembled with Hybrid Machine Learning Techniques
+<b>● Maverick Stock Capturing Strategy Ensembled with Hybrid Machine Learning Techniques</b><br>
 <b>2020.07-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Author; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Jun Wang</b><br>
 ---Applied machine learning techniques to improve a maverick stock capturing strategy<br>
 ---Applied Attention-based BERT to extract data features, as well as Naïve Bayesian, Support Vector Machine, Decision Tree, Random Forest and their ensembled model based on voting to train and fit the model<br>
