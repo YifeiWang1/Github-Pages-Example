@@ -24,9 +24,8 @@ My current research interests include financial markets, spacial econometrics, f
 ---Combine with <b>agent-based model</b>  to achieve accurate intervention<br>
 <br>
 <b>4, Sentiment analysis</b><br>
----Request data from forums
----Use emotion dictionary for emotion analysis
-
+---Request data from forums<br>
+---Use emotion dictionary for emotion analysis<br>
 <br>
 <b>5，Machine learning</b><br>
 ---Predict future<br>
