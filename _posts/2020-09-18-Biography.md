@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Background
+title:      Background
 category: blog
 description: 
 ---
