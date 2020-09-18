@@ -6,7 +6,7 @@ description:
 ---
 <br>
 <br>
-My current research interests include financial markets, spacial econometrics, future prediction, machine learning, system dynamics, and nonlinear systems.<br>
+My current research interests include financial markets, spacial econometrics, future prediction, sentiment analysis, machine learning, system dynamics, and nonlinear systems.<br>
 <br>
 <b>1, Asset pricing</b> <br>
 ---Use <b>economic and statistical methods</b> to find out effective indexes which influence price movement<br>
@@ -23,10 +23,15 @@ My current research interests include financial markets, spacial econometrics, f
 ---Better prevent side effects<br>
 ---Combine with <b>agent-based model</b>  to achieve accurate intervention<br>
 <br>
-<b>4，Machine learning</b><br>
+<b>4, Sentiment analysis</b><br>
+---Request data from forums
+---Use emotion dictionary for emotion analysis
+
+<br>
+<b>5，Machine learning</b><br>
 ---Predict future<br>
 ---<b>Combined</b> with system dynamics(serve as each other’s imput) to solve more problems<br>
 <br>
-<b>5，Spacial econometrics</b><br>
+<b>6，Spacial econometrics</b><br>
 ---Cross-regional, dynamic, systematic research<br>
 ---Interesting and viable under the availability of big data.<br>
