@@ -16,7 +16,7 @@ My current research interests include financial markets, spacial econometrics, f
 ---Apply machine learning techniques to do future prediction; implement with <b>Python</b><br>
 ---Use <b>Eviews</b>  to predict the future movement of time series data<br>
 <br>
-<b>3，System dynamics</b><br>
+<b>3, System dynamics</b><br>
 ---use system dynamics method to capture the <b>nonlinear and feedback</b>  relationship within the system<br>
 ---Applications in financial markets, health systems, and environmental systems<br>
 ---Observe how <b>complex systems</b> change over time<br>
@@ -27,10 +27,10 @@ My current research interests include financial markets, spacial econometrics, f
 ---Request data from forums and process the data<br>
 ---Use emotion dictionary for emotion analysis<br>
 <br>
-<b>5，Machine learning</b><br>
+<b>5, Machine learning</b><br>
 ---Predict future<br>
 ---<b>Combined</b> with system dynamics(serve as each other’s imput) to solve more problems<br>
 <br>
-<b>6，Spacial econometrics</b><br>
+<b>6, Spacial econometrics</b><br>
 ---Cross-regional, dynamic, systematic research<br>
 ---Interesting and viable under the availability of big data.<br>
