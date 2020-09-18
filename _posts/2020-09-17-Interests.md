@@ -21,11 +21,11 @@ My current research interests include financial markets, spacial econometrics, f
 ---Observe how complex systems change over time<br>
 ---Better prevent side effects<br>
 ---Combine with <b>agent-based model</b>  to achieve accurate intervention<br>
-
+<br>
 <b>4，Machine learning</b><br>
 ---Predict future<br>
 ---Combined with system dynamics(serve as each other’s imput) to solve more problems<br>
-
+<br>
 <b>5，Spacial econometrics</b><br>
 ---Cross-regional, dynamic, systematic research<br>
 ---Interesting and viable under the availability of big data.<br>
