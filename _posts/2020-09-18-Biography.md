@@ -13,6 +13,8 @@ I was born in Changchun, Jilin, China, June 12, 1998. Majoring in finance and mi
 <h3>Degree</h3>
 <b>Degree:</b> Bachelor of Economics (Finance), Southwestern University of Finance and Economics, 2016.09-2020.07<br>
 <b>Program:</b> Economic and Management International Immersion Talent Program<br>
+<b>Major:</b> Finance<br>
+<b>Minor:</b> Management<br>
 
 <h3>Grades</h3>
 <b>CGPA:</b> 84/100<br>
