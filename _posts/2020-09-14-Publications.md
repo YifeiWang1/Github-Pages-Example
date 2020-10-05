@@ -18,7 +18,7 @@ description:
 ---Concluded that the improved strategy is much more effective than the original trading strategy, and is likely to behave even better during market downturn<br>
 <br>
 
-<b>● Yifei Wang</b> and Shiyong Liu, "An Application of System Dynamics to Study the Impact of Fossil Fuel Transportation Emissions on Local Air Quality in Beijing," Transportation Research Part A (Expected to contribute in October 2020)<br>
+<b>● Yifei Wang</b> and Shiyong Liu, "An Application of System Dynamics to Study the Impact of Fossil Fuel Transportation Emissions on Local Air Quality in Beijing," Transportation Research Part A (Expected to contribute in 2020)<br>
 ---Applied system dynamics techniques to evaluate the influence of fossil fuel transportation on air pollution level<br>
 ---Constructed different policy combinations and done simulations to figure out the most effective way on reducing air pollution<br>
 
