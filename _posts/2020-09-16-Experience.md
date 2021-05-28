@@ -5,7 +5,7 @@ category: blog
 description: 
 ---
 <br>
-<h2>Research Experiences</h2>
+<h2>Research Assistant Experiences</h2>
 
 
 
@@ -72,10 +72,17 @@ description:
 
 <h2>Other Experiences</h2>
 <b>Boston University, 1 Silber Way, Boston, MA 02215, United States.</b><br>
-May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Intern <br>
+May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Research Intern</b> <br>
+---Proposed an interdisciplinary application in information system area to capture the dynamic change and help explain the existing contradictory results in the IS area.
+<br>
 <b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
 Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student (<b>absence</b> due to the visa issue)<br>
 <br>
 <b>China Household Finance Survey, Sichuan, China.</b><br>
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
-
+---Responsible for verifying and controlling the quality of telephone interviews<br>
+<br>
+<b>Southwestern University of Finance and Economics , Sichuan, China.</b><br>
+Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; Research Assistant<br>
+---Mainly responsible for data collection, data processing, and literature review part
+---Participated in model construction and proposed a method to improve the model
