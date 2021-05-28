@@ -12,13 +12,9 @@ description:
 
 
 
-<b>● Maverick Stock Capturing Strategy Ensembled with Hybrid Machine Learning Techniques</b><br>
+<b>● A New Maverick Stock Trading Strategy Based on Data from the Chinese Stock Market.</b><br>
 <b>2020.07-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Author; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Jun Wang</b><br>
----Applied machine learning techniques to improve a maverick stock capturing strategy<br>
----Applied Attention-based BERT to extract data features, as well as Naïve Bayesian, Support Vector Machine, Decision Tree, Random Forest and their ensembled model based on voting to train and fit the model<br>
----Tensor fusion are applied to merge data<br>
----Concluded that the improved strategy is much more effective than the original trading strategy, and is likely to behave even better during market downturn<br>
-<br>
+---Proposed a new maverick stock capturing strategy based on a high frequency dataset in Chinese stock market, and the strategy exhibited an amazingly high portfolio return
 
 
 <b>● Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
@@ -74,9 +70,11 @@ description:
 ---Used Brick Agriculture Database to collect data of each province<br>
 ---Concluded that convenient and efficient agricultural transportation and transactions brought by transportation facilities would reduce the total cost in the agricultural economic chain and increase disposable income, which would increase agricultural investment and the utilization rate of land per unit, making up for the negative impact on the occupation of arable land<br>
 
-<h2>Social Experiences</h2>
+<h2>Other Experiences</h2>
+<b>Boston University, 1 Silber Way, Boston, MA 02215, United States.</b><br>
+May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Intern <br>
 <b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
-Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited student (<b>absence</b> due to the visa issue)<br>
+Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student (<b>absence</b> due to the visa issue)<br>
 <br>
 <b>China Household Finance Survey, Sichuan, China.</b><br>
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
