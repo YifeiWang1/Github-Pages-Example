@@ -20,12 +20,6 @@ description:
 ---Comprehensively considered the overall cost (including environmental cost, clearance cost, land occupation cost, etc.) and related economic benefits (such as jobs created, GDP contribution, etc.) of online shopping express waste<br> 
 ----Applied system dynamics technique to figure out the equilibrium of future development direction in order to balance the environmental losses and economic benefits<br> 
 <br>
-
-<b>● Application of Dynamic Programming on Intellectual Test Paper Design," 2020 International Conference on Machine Learning and Computer Application (Accepted)</b><br>
-<b>2020.06-2020.09; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Author; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><br>
----Applied dynamic programming algorithm to realize an intellectual paper construction system<br>
----Optimized the space complexity and the compared time and space complexity with greedy and brute force algorithm<br>
-<br>
   
 <b>● An Application of System Dynamics to Study the Impact of Fossil Fuel Transportation Emissions on Local Air Quality in Beijing</b><br>
 <b>2020.01-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
