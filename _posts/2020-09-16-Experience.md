@@ -77,8 +77,8 @@ May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <br>
 <b>Southwestern University of Finance and Economics , Sichuan, China.</b><br>
 Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; <b>Research Assistant</b><br>
----Mainly responsible for data collection, data processing, and literature review part
----Participated in model construction and proposed a method to improve the model
+---Mainly responsible for data collection, data processing, and literature review part<br>
+---Participated in model construction and proposed a method to improve the model<br>
 <br>
 <b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
 Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student (<b>absence</b> due to the visa issue)<br>
