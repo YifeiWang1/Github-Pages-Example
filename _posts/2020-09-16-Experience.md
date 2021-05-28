@@ -84,7 +84,7 @@ Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; <b>Research Assistant</b><br>
 Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student (<b>absence</b> due to the visa issue)<br>
 <br>
 
-<h2>Other Experiences</h2>
+<h2>Work Experiences</h2>
 <b>China Household Finance Survey, Sichuan, China.</b><br>
 Sep. 2018 - Oct. 2018	&nbsp;&nbsp;&nbsp; Quality Assurance Specialist<br>
 ---Responsible for verifying and controlling the quality of telephone interviews<br>
