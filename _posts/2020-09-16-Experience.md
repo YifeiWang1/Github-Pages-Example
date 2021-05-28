@@ -75,7 +75,7 @@ description:
 May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Research Intern</b> <br>
 ---Proposed an interdisciplinary application in information system area to capture the dynamic change and help explain the existing contradictory results in the IS area.<br>
 <br>
-<b>Southwestern University of Finance and Economics , Sichuan, China.</b><br>
+<b>Southwestern University of Finance and Economics, Sichuan, China.</b><br>
 Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; <b>Research Assistant</b><br>
 ---Mainly responsible for data collection, data processing, and literature review part<br>
 ---Participated in model construction and proposed a method to improve the model<br>
@@ -83,6 +83,9 @@ Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; <b>Research Assistant</b><br>
 <b>Virginia Commonwealth University, Richmond, Virginia, United States.</b><br>
 Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student (<b>absence</b> due to the visa issue)<br>
 <br>
+<b>2018 Chinese Congress of Systems Science and Systems Engineering, Sichuan, China.  </b><br>
+Oct. 2018	&nbsp;&nbsp;&nbsp; <b>Attendee</b><br>      
+Harvest: kept abreast of the latest trends in systems science and systems engineering; communicated with professors and students from other universities and research institutes in China<br>
 
 <h2>Work Experiences</h2>
 <b>China Household Finance Survey, Sichuan, China.</b><br>
