@@ -20,9 +20,7 @@ description:
 <br>
 
 <h2>Working Papers</h2>
-<b>● Yifei Wang</b> and Jun Wang, <b>"Maverick Stock Capturing Strategy Ensembled with Hybrid Machine Learning Techniques,"</b> <br>
----Proposed a new maverick stock capturing strategy based on high-frequency dataset<br>
----The strategy exhibited an amazingly high portfolio return<br>
----A detailed explanation with rigorous empirical study is expected to be done next<br>
-
+<b>● Yifei Wang</b> and Jun Wang, <b>"A New Maverick Stock Trading Strategy Based on Data from the Chinese Stock Market"</b> <br>
+---Proposed a new maverick stock capturing strategy based on a high frequency dataset in Chinese stock market, and the strategy exhibited an amazingly high portfolio return<br>
+<br>
 
