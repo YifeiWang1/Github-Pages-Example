@@ -21,4 +21,4 @@ I was born in Changchun, Jilin, China, June 12, 1998. Majoring in finance and mi
 <b>GPA(last year):</b> 88.9/100<br>
 <b>Honors and Awards:</b> Outstanding Academic Scholarship (2020)<br>
 <br>
-<b>The programs was delivered entirely in English.</b><br>
+<b>The program was fully delivered in English.</b><br>
