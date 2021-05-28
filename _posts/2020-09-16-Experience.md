@@ -54,7 +54,6 @@ Jul. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <br>
 <b>2018 Chinese Congress of Systems Science and Systems Engineering, Sichuan, China.  </b><br>
 Oct. 2018	&nbsp;&nbsp;&nbsp; <b>Attendee</b><br>      
-Harvest: kept abreast of the latest trends in systems science and systems engineering; communicated with professors and students from other universities and research institutes in China<br>
 
 <h2>Work Experiences</h2>
 <b>China Household Finance Survey, Sichuan, China.</b><br>
