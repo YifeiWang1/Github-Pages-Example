@@ -14,7 +14,7 @@ description:
 ---Proposed a new extraction model based on improved Deeplabv3+ network<br>
 ---Compared with the selected U-Net, SegNet, FCN, and PSPNet, the improved Deeplabv3+ model has increased 3.893%, 5.242%, 4.318%，3.471% on PA, and 6.534%, 3.732%，3.749%，6.331% on IOU,and 6.111%, 6.698%, 5.776%，4.901% on Recall. At the same time, the extraction result also reduces noise, enhances the integrity of the extracted water body and the edge refinement ability, and has good practicability.<br>
 <br>
-● Hongxiang Li, Ao Feng, Bin Lin, Houcheng Su, Zixi Liu, Xuliang Duan, <b>Yifei Wang</b>. (2021) <b>A novel method for credit scoring based on feature transformation and ensemble model. </b>PeerJ - Computer Science. <b> (Revising)</b><br>
+● Hongxiang Li, Ao Feng, Bin Lin, Houcheng Su, Zixi Liu, Xuliang Duan, <b>Yifei Wang</b>. (2021) <b>A novel method for credit scoring based on feature transformation and ensemble model. </b>PeerJ - Computer Science. <b> (Accepted)</b><br>
 ---Proposed a prediction method based on feature transformation and ensembled model<br>
 ---Verified the effectiveness of the proposed method by comparative experiments on two standard data sets<br>
 <br>
@@ -25,9 +25,4 @@ description:
 ---The strategy exhibited an amazingly high portfolio return<br>
 ---A detailed explanation with rigorous empirical study is expected to be done next<br>
 
-<br>
-
-<b>● Yifei Wang</b> and Shiyong Liu, <b>"An Application of System Dynamics to Study the Impact of Fossil Fuel Transportation Emissions on Local Air Quality in Beijing,"</b> <br>
----Applied system dynamics techniques to evaluate the influence of fossil fuel transportation on air pollution level<br>
----Constructed different policy combinations and done simulations to figure out the most effective way on reducing air pollution<br>
 
