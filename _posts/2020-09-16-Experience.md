@@ -7,10 +7,6 @@ description:
 <br>
 <h2>Research Assistant Experiences</h2>
 
-<b>● A New Maverick Stock Trading Strategy Based on Data from the Chinese Stock Market.</b><br>
-<b>2020.07-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Jun Wang</b><br>
----Proposed a new maverick stock capturing strategy based on a high frequency dataset in Chinese stock market, and the strategy exhibited an amazingly high portfolio return<br>
-<br>
 
 <b>● Heart Disease Prediction by Using Hybrid Machine Learning Techniques</b><br>
 <b>2020.07-Present; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Shiyong Liu</b><br>
