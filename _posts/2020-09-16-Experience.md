@@ -76,7 +76,7 @@ May. 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 ---Proposed an interdisciplinary application in information system area to capture the dynamic change and help explain the existing contradictory results in the IS area.
 <br>
 <b>Southwestern University of Finance and Economics , Sichuan, China.</b><br>
-Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; Research Assistant<br>
+Jun. 2016 - Dec. 2020	&nbsp;&nbsp;&nbsp; <b>Research Assistant</b><br>
 ---Mainly responsible for data collection, data processing, and literature review part
 ---Participated in model construction and proposed a method to improve the model
 <br>
