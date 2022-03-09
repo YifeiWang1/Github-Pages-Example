@@ -18,9 +18,3 @@ description:
 ---Proposed a prediction method based on feature transformation and ensembled model<br>
 ---Verified the effectiveness of the proposed method by comparative experiments on two standard data sets<br>
 <br>
-
-<h2>Working Papers</h2>
-<b>● Yifei Wang</b> and Jun Wang, <b>"A New Maverick Stock Trading Strategy Based on Data from the Chinese Stock Market"</b> <br>
----Proposed a new maverick stock capturing strategy based on a high frequency dataset in Chinese stock market, and the strategy exhibited an amazingly high portfolio return<br>
-<br>
-
