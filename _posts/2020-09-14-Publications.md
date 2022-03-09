@@ -18,3 +18,8 @@ description:
 ---Proposed a prediction method based on feature transformation and ensembled model<br>
 ---Verified the effectiveness of the proposed method by comparative experiments on two standard data sets<br>
 <br>
+<h2>Working Paper</h2>
+<b>● Yifei Wang</b>, <b>Instrumental Variable Estimation of the Causal Effect of Childhood Sibship Size on Earnings in Adulthood: Evidence from the United States</b><br>
+---We use the instrument variable (IV) method to solve the endogenous problem in the current research.<br>
+---We find sex discrimination within the American families, which is surprising, but don’t find an impact of sibship size on future earnings among female individuals.<br>
+<br>
