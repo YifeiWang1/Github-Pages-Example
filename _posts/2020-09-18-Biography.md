@@ -24,7 +24,7 @@ I was born in Changchun, Jilin, China, June 12, 1998. I got my bachelor's degree
 <b>The program was fully delivered in English.</b><br>
 
 <h3>Degree</h3>
-<b>Degree:</b> MA of Economics, University of Calgary, 2021.09-<br>
+<b>Degree:</b> MA of Economics, University of Calgary, 2021.09-current<br>
 
 <h3>Grades</h3>
 <b>CGPA:</b> 3.75/4<br>
