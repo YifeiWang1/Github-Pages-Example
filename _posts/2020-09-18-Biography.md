@@ -18,7 +18,7 @@ I was born in Changchun, Jilin, China, June 12, 1998. I got my bachelor's degree
 <b>CGPA:</b> 84/100<br>
 <b>GPA(final year):</b> 88.9/100<br>
 <b>Honors and Awards:</b> Outstanding Academic Scholarship (2020)<br>
-<br><b>The program was fully delivered in English.</b><br>
+<b>The program was fully delivered in English.</b><br>
 
 <h3>Graduate</h3>
 <b>Degree:</b> MA in Economics, University of Calgary, 2021.09-current<br>
