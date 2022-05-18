@@ -24,10 +24,10 @@ description:
 
 <h2>Working Paper</h2>
 
-<b>● Yifei Wang</b>, Mingshan Lu. <b>Impact of Air Quality on COVID-19 cases: Evidence from China.</b>(Submitted)<br>
+<b>● Yifei Wang</b>, Mingshan Lu. <b>Impact of Air Quality on COVID-19 cases: Evidence from China.</b> (Submitted)<br>
 ---This study examines the impact of the air quality index (AQI) on daily COVID-19 cases and deaths in prefecture-level cities in China from January 22, 2020, to March 20, 2020. We did not find clear evidence for AQI to impact COVID 19 cases except a 10% significant impact from AQI on confirmed case growth rate.<br>
 <br>
 
-<b>● Yifei Wang</b>, <b>Instrumental Variable Estimation of the Causal Effect of Childhood Sibship Size on Earnings in Adulthood: Evidence from the United States</b><br>
+<b>● Yifei Wang</b>, <b>Instrumental Variable Estimation of the Causal Effect of Childhood Sibship Size on Earnings in Adulthood: Evidence from the United States</b>(Expected to be contributed to Demography soon)<br>
 ---We use the instrument variable (IV) method to solve the endogenous problem in the current research.<br>
 ---We find sex discrimination within the American families, which is surprising, but don’t find an impact of sibship size on future earnings among female individuals.
