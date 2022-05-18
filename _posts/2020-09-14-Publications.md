@@ -18,6 +18,10 @@ description:
 ---Proposed a prediction method based on feature transformation and ensembled model<br>
 ---Verified the effectiveness of the proposed method by comparative experiments on two standard data sets<br>
 <br>
+<b>● Yifei Wang</b>, Hui Lin, Shiyu Yao. <b>Application of a Maverick Stock Capturing Strategy in the Chinese Stock Market.</b>  MSEA 2022. (Accepted)<br>
+---Proposed a new maverick stock capturing strategy based on high-frequency dataset, and the strategy exhibited an high portfolio return.<br>
+<br>
+
 <h2>Working Paper</h2>
 <b>● Yifei Wang</b>, <b>Instrumental Variable Estimation of the Causal Effect of Childhood Sibship Size on Earnings in Adulthood: Evidence from the United States</b><br>
 ---We use the instrument variable (IV) method to solve the endogenous problem in the current research.<br>
@@ -25,7 +29,4 @@ description:
 <br>
 <b>● Yifei Wang</b>, Mingshan Lu. <b>Impact of Air Quality on COVID-19 cases: Evidence from China.</b><br>
 ---This study examines the impact of the air quality index (AQI) on daily COVID-19 cases and deaths in prefecture-level cities in China from January 22, 2020, to March 20, 2020. We did not find clear evidence for AQI to impact COVID 19 cases except a 10% significant impact from AQI on confirmed case growth rate.<br>
-<br>
-<b>● Yifei Wang</b>, Hui Lin, Shiyu Yao. <b>Application of a Maverick Stock Capturing Strategy in the Chinese Stock Market.</b>  MSEA 2022. (Revising)<br>
----Proposed a new maverick stock capturing strategy based on high-frequency dataset, and the strategy exhibited an high portfolio return.<br>
-<br>
+
