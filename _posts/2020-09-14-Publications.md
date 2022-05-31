@@ -23,7 +23,7 @@ description:
 <br>
 
 
-<h2>Paper under reviw</h2>
+<h2>Paper under review</h2>
 
 <b>● Yifei Wang</b>, Meiling Jin, Chunyan Zhu, Mingshan Lu. <b>Impact of Air Quality on COVID-19 Confirmed and Death Cases: Evidence from China.</b> (Submitted)<br>
 ---This study examines the impact of the air quality index (AQI) on daily COVID-19 cases and deaths in prefecture-level cities in China from January 22, 2020, to March 20, 2020. We did not find clear evidence for AQI to impact COVID 19 cases except a 10% significant impact from AQI on confirmed case growth rate.<br>
