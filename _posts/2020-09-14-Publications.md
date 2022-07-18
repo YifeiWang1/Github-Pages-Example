@@ -25,9 +25,12 @@ description:
 
 <h2>Paper under review</h2>
 
-<b>● Yifei Wang</b>, Meiling Jin, Chunyan Zhu, Mingshan Lu. <b>Impact of Air Quality on COVID-19 Confirmed and Death Cases: Evidence from China.</b> (Submitted)<br>
----This study examines the impact of the air quality index (AQI) on daily COVID-19 cases and deaths in prefecture-level cities in China from January 22, 2020, to March 20, 2020. We did not find clear evidence for AQI to impact COVID 19 cases except a 10% significant impact from AQI on confirmed case growth rate.<br>
+<b>● Yifei Wang</b>, Meiling Jin, Chunyan Zhu, Mingshan Lu. <b>Impact of Air Quality on COVID-19 Confirmed and Death Cases: Evidence from China.</b> (Under Review)<br>
+---This study examines the impact of the air quality index (AQI) on daily COVID-19 cases and deaths in prefecture-level cities in China from January 22, 2020, to March 20, 2020. We find significant evidence for air quality index (AQI) to impact daily confirmed COVID-19 cases positively. By further decomposing AQI to its components, we find a significant positive impact from SO2, NO2, O3, and CO on daily confirmed COVID-19 cases. Results also show a positively significant impact from PM10, SO2, NO2, O3, and CO on daily dead COVID-19 cases. <br>
 <br>
+
+● Xuan Wu, Silong Zhou, Mingwei Chen , Yihang Zhao, <b>Yifei Wang</b>, Xianmeng Zhao, Danyang Li, Haibo Pu. <b>Combined Spectral and Speech Features for Pig Speech Recognition.</b> Submitted)<br>
+---In this work, a fusion network idea is proposed to better solve the speech recognition task of pigs through the mutual complementation of spectral features and audio features. In the spectral features section, chroma, spectral contrast, tonnetz, MFCC, and LM features are extracted and combined to obtain MC, LC, and MLMC features, a total of eight different features to ensure the diversity of features and the robustness of the model. We design a parallel network structure, and at the same time supplement the input spectrum and audio features of the model. These two features complement each other in high dimension, and select the best network model and classifier for combination. In the pig speech classification task, the accuracy is 93.39%, which proves the superiority of this method. In addition, we produced the pig speech dataset, which provides raw material for other researchers.
 
 <h2>Working Paper</h2>
 
